@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=Final-Year+CSE+Student+%F0%9F%8E%93;Aspiring+Data+Analyst+%F0%9F%93%8A;Learning+ML+%2F+AI+%F0%9F%A4%96;Building+things+one+repo+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=Palash1249&label=Profile+Views&color=2EA3F7&style=for-the-badge" alt="profile views"/>
+<!-- <img src="https://komarev.com/ghpvc/?username=Palash1249&label=Profile+Views&color=2EA3F7&style=for-the-badge" alt="profile views"/> -->
 
 </div>
 
