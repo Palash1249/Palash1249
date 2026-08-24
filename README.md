@@ -21,12 +21,10 @@
 | Project | Description |
 |---|---|
 | **[PhonePe Pulse Analytics](https://github.com/Palash1249)** | UPI transaction dashboard — Streamlit, SQL (CTEs/window functions), Prophet forecasting, deployed on Render |
-| **JARVIS Assistant** | Personal AI assistant using Gemini 2.5 Flash API, Python, persistent chat loop with custom personality |
 | **SnapClass** | AI multimodal attendance monitor, live Streamlit deployment |
 | **DownZORA** | Flask-based web utility — [downzora.com](https://downzora.com) |
 | **Employee Attrition Predictor** | ML model predicting employee churn |
 
-> 🔗 Update the links above to point to your actual repo URLs.
 
 ---
 
