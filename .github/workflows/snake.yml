@@ -1,11 +1,9 @@
-name: Snake
+name: Generate contribution snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
-  push:
-    branches: [main]
 
 permissions:
   contents: write
@@ -14,22 +12,17 @@ jobs:
   snake:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake animations
+      - name: Generate snake
         uses: Platane/snk@v3
-        id: snake
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: Palash1249
           outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
-            dist/snake.gif?color_snake=#39d353&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # The SVGs are pushed to an orphan `output` branch so they never clutter
-      # main. The README points at raw.githubusercontent.com/.../output/...
-      - name: Push to the output branch
+      - name: Publish output
         uses: crazy-max/ghaction-github-pages@v4
         with:
-          target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
