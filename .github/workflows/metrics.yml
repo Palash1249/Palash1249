@@ -1,0 +1,53 @@
+name: Metrics
+on:
+  schedule:
+    - cron: "0 0 * * *"   # once a day
+  workflow_dispatch:       # lets you trigger it manually too
+  push:
+    branches: ["main"]
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics.isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics.stats.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, repositories, metadata
+          base_indepth: yes
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics.languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics.achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics.plugin.habits.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_days: 60
