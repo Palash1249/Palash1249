@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="assets/portrait.svg" width="300" alt="Palash Halder dot matrix portrait">
+
+<br>
+
 # `~/` Palash Halder
 
 ### Data Analyst • Machine Learning • AI Builder
