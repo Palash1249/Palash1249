@@ -1,8 +1,12 @@
-<h1 align="center">Hi, I'm Palash 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=Final-Year+CSE+Student;Aspiring+Data+Analyst;Learning+ML+%2F+AI;Building+things+one+repo+at+a+time" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA3F7,100:8E2DE2&height=200&section=header&text=Palash%20Halder&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20Future%20ML%2FAI%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=Final-Year+CSE+Student+%F0%9F%8E%93;Aspiring+Data+Analyst+%F0%9F%93%8A;Learning+ML+%2F+AI+%F0%9F%A4%96;Building+things+one+repo+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=Palash1249&label=Profile+Views&color=2EA3F7&style=for-the-badge" alt="profile views"/>
+
+</div>
 
 ---
 
@@ -18,39 +22,73 @@
 
 ### 🚀 Projects
 
-| Project | Description |
-|---|---|
-| **[PhonePe Pulse Analytics](https://github.com/Palash1249)** | UPI transaction dashboard — Streamlit, SQL (CTEs/window functions), Prophet forecasting, deployed on Render |
-| **SnapClass** | AI multimodal attendance monitor, live Streamlit deployment |
-| **DownZORA** | Flask-based web utility — [downzora.com](https://downzora.com) |
-| **Employee Attrition Predictor** | ML model predicting employee churn |
+<table>
+<tr>
+<td width="50%">
 
+**📱 PhonePe Pulse Analytics**
+UPI transaction dashboard — Streamlit, SQL (CTEs/window functions), Prophet forecasting, deployed on Render
+
+</td>
+<td width="50%">
+
+**🤖 JARVIS Assistant**
+Personal AI assistant using Gemini 2.5 Flash API, Python, persistent chat loop with custom personality
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**📸 SnapClass**
+AI multimodal attendance monitor, live Streamlit deployment
+
+</td>
+<td width="50%">
+
+**⬇️ DownZORA**
+Flask-based web utility — [downzora.com](https://downzora.com)
+
+</td>
+</tr>
+</table>
+
+> 🔗 Update the links above to point to your actual repo URLs.
 
 ---
 
 ### 🧰 Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,sklearn,postgres,git,github,vscode,linux&theme=dark" />
+</div>
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Palash1249&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Palash1249&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palash1249&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Palash1249&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Palash1249&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Palash1249/Palash1249/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+> ⚙️ This animated snake needs a one-time GitHub Action setup — instructions below.
 
 ---
 
@@ -62,4 +100,4 @@
   </a>
 </p>
 
-<p align="center"><i>"Not all those who wander are lost — some are just debugging."</i></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:2EA3F7&height=100&section=footer" width="100%"/>
