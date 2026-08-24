@@ -94,8 +94,8 @@ I'm **Palash Halder**, a final-year Computer Science student focused on **data a
 
 <div align="center">
 
-<img src="./profile/stats.svg" height="170" alt="GitHub stats">
-<img src="./profile/top-langs.svg" height="170" alt="Top languages">
+<img src="https://raw.githubusercontent.com/Palash1249/Palash1249/main/profile/stats.svg" height="170" alt="GitHub stats">
+<img src="https://raw.githubusercontent.com/Palash1249/Palash1249/main/profile/top-langs.svg" height="170" alt="Top languages">
 
 <br><br>
 
