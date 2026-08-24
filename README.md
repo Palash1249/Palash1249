@@ -1,103 +1,57 @@
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Palash+Halder;Data+%2B+Machine+Learning;Building+Portfolio+Projects;01110000 01100001 01101100 01100001 01110011 01101000" alt="typing banner" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA3F7,100:8E2DE2&height=200&section=header&text=Palash%20Halder&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20ML%2FAI%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/palashhalder07)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Palash1249)
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=Final-Year+CSE+Student+%F0%9F%8E%93;Aspiring+Data+Analyst+%F0%9F%93%8A;Learning+ML+%2F+AI+%F0%9F%A4%96;Building+things+one+repo+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
-
-<!-- <img src="https://komarev.com/ghpvc/?username=Palash1249&label=Profile+Views&color=2EA3F7&style=for-the-badge" alt="profile views"/> -->
-
-</div>
+[![profile views](https://komarev.com/ghpvc/?username=Palash1249&style=flat&color=39d353&label=profile+views)](https://komarev.com/ghpvc/?username=Palash1249)
 
 ---
 
-### 🧭 About Me
+## `~/` whoami
 
-- 🎓 Final-year **B.Tech CSE** student at IIMT College of Engineering, Greater Noida (Batch 2023–2027)
-- 📊 Currently aiming for **Data Analyst** roles as my entry point into tech
-- 🤖 Long-term goal: building a career in **Machine Learning / AI**
-- 📝 Published research: AI-driven scent synthesis using **XGBoost, GNNs & VAEs** (IJCRT)
-- 🛠️ Also a hands-on DIYer — electronics, wiring, and custom keyboard builds
+```
+$ cat about.txt
+```
 
----
+Final-year B.Tech CSE student, currently aiming for Data Analyst roles as an
+entry point, with machine learning / AI as the long-term direction.
 
-### 🚀 Projects
+- Building **PhonePe Pulse Analytics** and **JARVIS Assistant**
+- Also shipped **SnapClass** and **DownZORA**
+- Published research on AI-driven scent synthesis (XGBoost, GNNs, VAEs)
+- Fun fact: also builds custom mechanical keyboards on the side
 
-<table>
-<tr>
-<td width="50%">
+## `~/` toolbox
 
-**📱 PhonePe Pulse Analytics**
-UPI transaction dashboard — Streamlit, SQL (CTEs/window functions), Prophet forecasting, deployed on Render
-
-</td>
-<td width="50%">
-
-**🤖 JARVIS Assistant**
-Personal AI assistant using Gemini 2.5 Flash API, Python, persistent chat loop with custom personality
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**📸 SnapClass**
-AI multimodal attendance monitor, live Streamlit deployment
-
-</td>
-<td width="50%">
-
-**⬇️ DownZORA**
-Flask-based web utility — [downzora.com](https://downzora.com)
-
-</td>
-</tr>
-</table>
-
-> 🔗 Update the links above to point to your actual repo URLs.
+![tech stack](https://skillicons.dev/icons?i=python,flask,sklearn,postgres,git,github,vscode,linux&perline=11)
 
 ---
 
-### 🧰 Tech Stack
+## `~/` contribution calendar
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,sklearn,postgres,git,github,vscode,linux&theme=dark" />
-</div>
+![isometric contribution calendar](./assets/metrics.isocalendar.svg)
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Palash1249&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palash1249&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Palash1249&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Palash1249&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
-</p>
+![snake eating the contribution graph](https://raw.githubusercontent.com/Palash1249/Palash1249/output/snake.svg)
 
 ---
 
-### 🐍 Contribution Snake
+## `~/` the numbers
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Palash1249/Palash1249/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-> ⚙️ This animated snake needs a one-time GitHub Action setup — instructions below.
+![GitHub stats](./assets/metrics.stats.svg)
+![most used languages](./assets/metrics.languages.svg)
+![achievements](./assets/metrics.achievements.svg)
 
 ---
 
-### 🔗 Connect With Me
+## `~/` selected work
 
-<p align="left">
-  <a href="https://linkedin.com/in/palashhalder07" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+| project | stack |
+|---|---|
+| **[PhonePe Pulse Analytics](https://github.com/Palash1249)** | `Python` `Streamlit` `SQL` `Prophet` |
+| **[SnapClass](https://github.com/Palash1249)** | `Python` `Streamlit` `Computer Vision` |
+| **[DownZORA](https://github.com/Palash1249)** | `Flask` |
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:2EA3F7&height=100&section=footer" width="100%"/>
+
+---
+
+`01110100 01101000 01100001 01101110 01101011 01110011 00100000 01100110 01101111 01110010 00100000 01110110 01101001 01110011 01101001 01110100 01101001 01101110 01100111`
