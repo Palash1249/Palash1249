@@ -28,7 +28,7 @@ I turn messy data into useful decisions, then build the dashboards and tools tha
 
 ---
 
-## `~/` whoami
+## `~/` who am i
 
 ```console
 $ cat about.txt
@@ -47,7 +47,7 @@ I'm **Palash Halder**, a final-year Computer Science student focused on **data a
 
 ---
 
-## `~/` toolbox
+## `~/` tool box
 
 <div align="center">
 
